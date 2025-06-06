@@ -54,7 +54,7 @@ Launch planned: Q3 2025.
 
 ## 📬 Contact
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/tuo-nome-personalizzato](https://www.linkedin.com/in/jacopo-pierantozzi-46240b288/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jacopo-pierantozzi-46240b288/)
 - ✉️ Email: jacopo.pierantozzi@gmail.com
 - 🧠 Currently available for remote Web3 roles and freelance work.
 
