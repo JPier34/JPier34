@@ -1,4 +1,4 @@
-# 👋 Here you are!
+# 👋 Hi there!
 
 ## 👨‍💻 About Me
 
@@ -31,30 +31,30 @@ I also work for PR Gestioni SRL, a Real Estate company!
 
 ---
 
-## 📦 Projects
+## 📦 Main Projects
 
 ### 🚀 [Orizon Trip Manager](https://github.com/JPier34/orizon-trip-manager)
 > A dApp for sustainable tourism initiatives.  
-Built with Solidity + React. Focused on DAO-style decision making and transparent budgeting.
+Built with Solidity. Focused on transparent budgeting.
 
-### 💸 Coming Soon: Web3 Payroll dApp  
-> A tool to manage token-based payments for DAOs and freelancers.  
-Launch planned: Q3 2025.
+### 🎫 [Sustainable Travel Project](https://github.com/JPier34/sustainable-travel-project)
+> A Web3 supported dApp allowing to pay Crypto for travelling.
+Built with Typescript + React. Focused on a full stack developing structure, already ready to use!
 
-...
+### 🥘 [Food Education Quiz](https://github.com/JPier34/food-education-quiz)
+> A simple project presenting a quiz about food and environment.
+Realized using React, Vite, JS, TS, HTML and CSS.
 
-
----
-
-## 📈 GitHub Stats
-
-![JPier34's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPier34&show_icons=true&theme=gruvbox)
+### 📰 [New York Times Website Clone](https://github.com/JPier34/new-york-times-website-clone)
+> A New York Times website clone realized using official API. This one's was really fun!
+Realized with React, Vite, JS, HTML and CSS.
 
 ---
 
 ## 📬 Contact
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jacopo-pierantozzi-46240b288/)
+- 📱 [Instagram](https://www.instagram.com/datboi_jpier/)
 - ✉️ Email: jacopo.pierantozzi@gmail.com
 - 🧠 Currently available for remote Web3 roles and freelance work.
 
