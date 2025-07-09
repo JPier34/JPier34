@@ -49,6 +49,13 @@ Realized using React, Vite, JS, TS, HTML and CSS.
 > A New York Times website clone realized using official API. This one's was really fun!
 Realized with React, Vite, JS, HTML and CSS.
 
+### 🌾 [DemetraDAO](https://github.com/JPier34/DemetraDAO)
+> How to demonstrate support for the community in a Web3 environment? Using a DAO, obsviously.
+Built with JavaScript, TypeScript and Solidity. Tested with Hardhat.
+
+### 🌱 [Demetra NFTs Handler](https://github.com/JPier34/Demetra-NFTs-Handler)
+> Minting NFTs, deploying on blockchains, conceding prizes and discounts: all made easy.
+Built with Solidity, tested with Foundry.
 ---
 
 ## 📬 Contact
