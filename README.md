@@ -16,20 +16,35 @@ I also work for PR Gestioni SRL, a Real Estate company!
 
 ## 🛠 Tech Stack
 
-**Smart Contracts:**  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
+### Smart Contracts
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=000000" />
+</p>
 
-**Front-end:**  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+### Front-end
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
 
-**Tooling:**  
-![Hardhat](https://img.shields.io/badge/Hardhat-%23000000.svg?style=flat&logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=flat&logo=forge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+### Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Foundry-FF4C29?style=for-the-badge&logo=forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+</p>
 
----
+### Currently working on
+<p align="left">
+  <img src="https://img.shields.io/badge/Ethereum-6C47FF?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
 
 ## 📦 Main Projects
 
